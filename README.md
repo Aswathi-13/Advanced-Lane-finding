@@ -1,4 +1,6 @@
 ## Advanced Lane Finding
+<img src="autonomouscar.gif" width="250" height="150" />
+
 [image6]: ./output_images/test3/final.jpg "Final output image"
 [video1]: ./project_video_output.mp4 "Video"
 The aim of this work is to built an advanced algorithm for autonomous cars to detect the lane lines. The scripts are in Python using OpenCV.
@@ -20,10 +22,3 @@ Output video is in `project_video_output`
 Final image looks like:
 
 ![alt text][image6]
-
-[Implying the same on a video](./project_video.mp4)
-
-![Alt Text](http://gifs.com/gif/lanefinding-WLxYRg)
-
-
-
